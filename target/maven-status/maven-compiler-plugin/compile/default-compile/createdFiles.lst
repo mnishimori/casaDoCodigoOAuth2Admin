@@ -1,7 +1,0 @@
-br/com/casadocodigo/admin/DashboardController.class
-br/com/casadocodigo/configuracao/TemplateConfig.class
-br/com/casadocodigo/AdminApplication.class
-br/com/casadocodigo/integracao/BasicAuthentication.class
-br/com/casadocodigo/integracao/OAuth2Token.class
-br/com/casadocodigo/integracao/bookserver/BookserverService.class
-br/com/casadocodigo/integracao/bookserver/ClientCredentialsTokenService.class
